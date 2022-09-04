@@ -1,1 +1,1 @@
-# deep-learning-dog-breed-classification
+# Predicting a dog breed with a given image
